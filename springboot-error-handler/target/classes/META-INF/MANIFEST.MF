@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-error-handler
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 辉
+Implementation-Vendor-Id: com.hehe
+Build-Jdk: 1.8.0_211
+Implementation-URL: http://projects.spring.io/spring-boot/springboot-e
+ rror-handler/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

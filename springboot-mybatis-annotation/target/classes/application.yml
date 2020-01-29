@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    #����MySQL
+    url: jdbc:mysql://localhost:3306/socks?useSSL=false
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+
+mybatis:
+  configuration:
+   #����������»��ߵ��շ���Զ�ת��. ���ã������ݿ��ֶθ����շ�����Զ�ע�뵽�������ԡ�
+   map-underscore-to-camel-case: true
+
+logging:
+  level:
+   #��ӡSQL��Ϣ
+   com.hehe.mapper: debug
